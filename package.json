@@ -1,12 +1,12 @@
 {
-  "name": "asteroids",
-  "homepage": "https://asteroids.live",
+  "name": "snake",
+  "homepage": "https://snake.kunal.sh",
   "author": {
     "name": "Kunal Shah",
     "email": "me@kunal.sh"
   },
   "repository": {
-    "url": "https://github.com/kunalgorithm/asteroids"
+    "url": "https://github.com/kunalgorithm/snake"
   },
   "version": "1.0.0",
   "license": "MIT",

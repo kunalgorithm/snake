@@ -17,30 +17,18 @@ class MyApp extends App {
     return (
       <>
         <Head>
-          <title>Asteroids</title>
+          <title>🐍</title>
           <meta name="description" content="In your browser ☄️" />
         </Head>
 
         <Layout style={{ height: "100vh", marginTop: "-10px" }}>
-          {/* <Header>
-            <Menu theme="dark" mode="horizontal" defaultSelectedKeys={[]}>
-              <Menu.Item key="1">
-                <Link href="/">
-                  <a>Asteroids</a>
-                </Link>
-              </Menu.Item>
-
-              <Menu.Item key="4">Exit</Menu.Item>
-            </Menu>
-          </Header> */}
-
           <Content style={{ padding: "3em" }}>
             <Component {...pageProps} />
           </Content>
 
           <Footer style={{ textAlign: "right" }}>
             <a
-              href="https://github.com/kunalgorithm/asteroids"
+              href="https://github.com/kunalgorithm/snake"
               target="_blank"
               style={{ color: "rgba(255, 255, 255, 0.55)" }}
             >
