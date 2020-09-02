@@ -18,7 +18,7 @@ class MyApp extends App {
       <>
         <Head>
           <title>🐍</title>
-          <meta name="description" content="In your browser ☄️" />
+          <meta name="description" content="Snake in your browser" />
         </Head>
 
         <Layout style={{ height: "100vh", marginTop: "-10px" }}>
